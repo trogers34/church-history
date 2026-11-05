@@ -31,11 +31,10 @@ listed, or has a key date outside the person's lifespan.
 ## Publishing
 
 The site is published with GitHub Pages at
-**https://trogers34.github.io/trogers-toolkit/**.
+**https://trogers34.github.io/church-history/**.
 
-`.github/workflows/church-history-pages.yml` runs the tests, rebuilds the site, and
-deploys it on every push to `master` that touches `church-history/`. Pull requests run
-the tests only. A failing test blocks the deploy, so the live site only changes when
+`.github/workflows/pages.yml` runs the tests, rebuilds the site, and deploys it on
+every push to `main`. Pull requests run the tests and build only. A failing test blocks the deploy, so the live site only changes when
 the data is valid.
 
 One-time setup (repo admin): **Settings → Pages → Build and deployment → Source:

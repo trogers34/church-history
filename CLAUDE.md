@@ -26,8 +26,8 @@ the user has set and the list of everyone on the site.
 9. When the user gives a list, skip anyone already on the site ("some duplicates so ignore").
 10. Keep this project memory up to date after every commit: the people list, every new
     rule or preference the user states, and the change log at the bottom. A hook in
-    `.claude/settings.json` checks each `git commit` and flags commits to `church-history/`
-    that did not also update this file.
+    `.claude/settings.json` checks each `git commit` and flags commits that change the site
+    but did not also update this file.
 11. Events as well as people (councils, schisms, massacres, trials, assemblies), shown on
     the **same timeline as the people**, in date order, marked as events. Events follow the
     same rules as people: full history, everyone responsible for violence, condemnations,
@@ -71,8 +71,8 @@ When the user names a person from church history, add them to the site:
 3. Run `python3 build.py`, then `python3 -m unittest discover tests`. Both must pass.
 4. Commit the JSON file, the regenerated `site/`, and this file together.
 5. Publish without asking first (the user's standing instruction): push the branch, open a
-   pull request to `master`, wait for its "build" check to pass, merge it, then confirm the
-   "Church History site" workflow run on `master` succeeded so the live site is rebuilt.
+   pull request to `main`, wait for its "build" check to pass, merge it, then confirm the
+   "Church History site" workflow run on `main` succeeded so the live site is rebuilt.
    If a check fails, fix it before merging. Report the live page URL when done.
 6. If the user asks for a group (e.g. "the first generation of church fathers"), list the
    people for approval first, then add the ones approved. For anonymous writings, cover them
@@ -95,7 +95,9 @@ Then build, test, and publish exactly as for a person.
   with status) and `persecution` incidents naming everyone responsible, as for people. Use
   `victims` for named people killed. Label tradition and disputed numbers as such.
 
-Live site: https://trogers34.github.io/trogers-toolkit/
+Live site: https://trogers34.github.io/church-history/ (repository: trogers34/church-history).
+Until November 2026 the project lived in the `church-history/` folder of trogers34/trogers-toolkit
+and was published at https://trogers34.github.io/trogers-toolkit/.
 
 ## People on the site
 
@@ -363,10 +365,15 @@ one is found. Be explicit that a list is a selection when it can't be complete.
 
 ## Change log
 
-Update this after every commit that changes the site. Newest first. PR numbers refer to
-trogers34/trogers-toolkit.
+Update this after every commit that changes the site. Newest first. PR numbers up to #114 refer to
+trogers34/trogers-toolkit; later ones to trogers34/church-history.
 
-- Peter Lombard (the Sentences and the medieval curriculum, seven sacraments, Bishop of Paris 1159; Alexander III's
+- **Moved to its own repository** (the user created trogers34/church-history: "copy it there"). Full history
+  carried over; the project now sits at the repository root, the Pages workflow is `.github/workflows/pages.yml`
+  (deploys from `main`), and the memory-check hook checks root paths. New live site:
+  https://trogers34.github.io/church-history/. 90 people, 56 events.
+
+- **PR #114**: Peter Lombard (the Sentences and the medieval curriculum, seven sacraments, Bishop of Paris 1159; Alexander III's
   1170/1177 condemnation of 'Christological nihilianism'; upheld by Lateran IV against Joachim). Linked from
   Lateran IV. 90 people, 56 events.
 - **PR #113**: Francis Schaeffer (the user wrote "Francis Schaefer"; Bible Presbyterian minister, L'Abri, The God Who Is There,
@@ -505,7 +512,7 @@ trogers34/trogers-toolkit.
 - Charles Haddon Spurgeon added (Surrey Gardens false alarm, sermons burned in the American South,
   Baptist Union censure in the Down-Grade Controversy). 32 people.
 - **Memory upkeep**: rule to update this file after every commit; a PostToolUse hook
-  (`.claude/hooks/check-memory-updated.sh`) flags commits to `church-history/` that skip it;
+  (`.claude/hooks/check-memory-updated.sh`) flags site commits that skip it;
   this change log started.
 - **PR #61**: the Apostolic Fathers (Clement of Rome, Ignatius, Papias, Polycarp, Hermas,
   Quadratus, Pseudo-Barnabas); rule to list group requests for approval first. 31 people.
