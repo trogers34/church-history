@@ -1,0 +1,299 @@
+{
+  "name": "Saint Lawrence",
+  "slug": "saint-lawrence",
+  "also_known_as": "Lawrence of Rome; Laurence; Laurentius; Lawrence the Deacon",
+  "short_name": "Lawrence",
+  "era": "Early Church",
+  "role": "Deacon of the church of Rome, martyred in the persecution under Valerian; patron of deacons, cooks, and the poor",
+  "born": {
+    "year": 225,
+    "circa": true,
+    "date": "c. 225 (not recorded)",
+    "place": "Not recorded in early sources; a later Spanish tradition names Huesca (Osca) in Aragon",
+    "sources": [
+      "britannica",
+      "lapidge"
+    ]
+  },
+  "died": {
+    "year": 258,
+    "date": "10 August 258",
+    "place": "Rome; buried on the Via Tiburtina",
+    "cause": "Executed in Valerian's persecution; by tradition roasted on a gridiron, though many historians think he was more likely beheaded",
+    "sources": [
+      "chronography-354",
+      "ambrose",
+      "britannica"
+    ]
+  },
+  "summary": "One of the seven deacons of Rome under Pope Sixtus II, in charge of the church's goods and its care for the poor, who was executed on 10 August 258, four days after Sixtus, in the persecution ordered by the emperor Valerian. His date and tomb are well attested; the famous stories of his showing the poor as 'the treasures of the church' and joking on the gridiron come from Ambrose and Prudentius more than a century later and are labelled here as tradition. He became one of the most honoured martyrs of Rome.",
+  "key_dates": [
+    {
+      "year": 257,
+      "label": "Valerian's first edict (summer 257): clergy ordered to sacrifice to the Roman gods; Christians forbidden to assemble or visit their cemeteries",
+      "sources": [
+        "cyprian",
+        "britannica"
+      ]
+    },
+    {
+      "year": 257,
+      "label": "Sixtus II becomes bishop of Rome (late August 257); Lawrence serves as one of his seven deacons, chief among them according to Prudentius",
+      "sources": [
+        "liber-pontificalis",
+        "prudentius"
+      ]
+    },
+    {
+      "year": 258,
+      "label": "Valerian's second rescript (summer 258) orders bishops, presbyters, and deacons to be put to death at once",
+      "sources": [
+        "cyprian"
+      ]
+    },
+    {
+      "year": 258,
+      "label": "6 August 258: Sixtus II seized in a Roman cemetery and executed with several deacons; by tradition he tells Lawrence he will follow him in three days",
+      "sources": [
+        "cyprian",
+        "ambrose"
+      ]
+    },
+    {
+      "year": 258,
+      "label": "6–10 August 258 (tradition): ordered to hand over the church's wealth, distributes it to the poor and presents them as the church's treasures",
+      "sources": [
+        "ambrose",
+        "prudentius"
+      ]
+    },
+    {
+      "year": 258,
+      "label": "10 August 258: executed and buried in the cemetery on the Via Tiburtina",
+      "sources": [
+        "chronography-354",
+        "ambrose"
+      ]
+    }
+  ],
+  "accomplishments": [
+    {
+      "text": "Served as one of the seven deacons of Rome under Pope Sixtus II, responsible, according to Ambrose and Prudentius, for the church's goods and for distributing its alms to the poor, widows, and orphans.",
+      "sources": [
+        "ambrose",
+        "prudentius"
+      ]
+    },
+    {
+      "text": "Was put to death on 10 August 258, four days after Sixtus, under Valerian's order that clergy be executed; his feast day and burial on the Via Tiburtina are recorded in the Roman list of martyrs' anniversaries preserved in the Chronography of 354, among the best-attested facts about him.",
+      "sources": [
+        "chronography-354",
+        "cyprian"
+      ]
+    },
+    {
+      "text": "By tradition, when the authorities demanded the church's treasure he asked for time, gave its money away, and brought the poor and sick, saying they were the treasures of the church. The story is first told by Ambrose (c. 388–391) and in Prudentius's hymn (c. 400), more than a century later.",
+      "sources": [
+        "ambrose",
+        "prudentius",
+        "lapidge"
+      ]
+    },
+    {
+      "text": "By tradition he was roasted on a gridiron and joked with his judge that one side was done and he should be turned over. Many historians doubt this, since Valerian's rescript called for the sword and the gridiron may come from a misreading or a literary flourish; they think he was more likely beheaded. This is labelled as tradition.",
+      "sources": [
+        "ambrose",
+        "britannica",
+        "lapidge"
+      ]
+    },
+    {
+      "text": "Became one of the most honoured martyrs of Rome: the Liber Pontificalis credits Constantine with building a basilica over his tomb (the origin of San Lorenzo fuori le Mura), and he is one of the saints named in the Roman Canon of the Mass.",
+      "sources": [
+        "liber-pontificalis",
+        "britannica"
+      ]
+    },
+    {
+      "text": "Prudentius's hymn to him (Peristephanon 2) presents his death as the turning point that led Rome, including senators, to abandon the old gods; this is a poetic claim, not a historical record.",
+      "sources": [
+        "prudentius",
+        "lapidge"
+      ]
+    },
+    {
+      "text": "Was the subject of sermons by Augustine (Sermons 302–305) and by Leo the Great, who said Rome was made as illustrious by Lawrence as Jerusalem was by Stephen.",
+      "sources": [
+        "augustine-sermons",
+        "leo-sermons"
+      ]
+    },
+    {
+      "text": "Is patron of deacons, of the poor, of cooks (because of the gridiron story), and of Rome alongside Peter and Paul. The Perseid meteors around his feast are called the 'tears of St Lawrence', and Philip II of Spain dedicated the Escorial to him after the victory at Saint-Quentin on his feast day, 10 August 1557.",
+      "sources": [
+        "britannica",
+        "kamen"
+      ]
+    }
+  ],
+  "sayings_intro": "Lawrence left no writings. Every word attributed to him comes from Ambrose and Prudentius, writing more than a century after his death, so all are listed as traditional rather than his own recorded words.",
+  "sayings": {
+    "misattributed": [
+      {
+        "phrase": "\"Assum est, versa et manduca\" (\"It is cooked; turn it over and eat\")",
+        "reference": "Ambrose, De officiis 1.41.207 (c. 388–391); a similar jest in Prudentius, Peristephanon 2",
+        "note": "The gridiron joke; tradition, and the gridiron itself is doubted by many historians.",
+        "sources": [
+          "ambrose",
+          "prudentius"
+        ]
+      },
+      {
+        "phrase": "\"These are the treasures of the church\"",
+        "reference": "Ambrose, De officiis 2.28.140; Prudentius, Peristephanon 2",
+        "note": "Said, by tradition, when he presented the poor to the official who demanded the church's wealth.",
+        "sources": [
+          "ambrose",
+          "prudentius"
+        ]
+      },
+      {
+        "phrase": "\"Where are you going, father, without your son? Where are you hurrying, priest, without your deacon?\"",
+        "reference": "Ambrose, De officiis 1.41.205",
+        "note": "His words to Sixtus II on the way to execution, as Ambrose tells it; Sixtus replies that Lawrence will follow in three days.",
+        "sources": [
+          "ambrose"
+        ]
+      }
+    ]
+  },
+  "persecuted_others_note": "No record of Lawrence supporting or carrying out persecution of anyone. In the traditional accounts his part in the persecution was as its target, refusing to hand over church property.",
+  "persecuted_others": [],
+  "persecution_note": "Lawrence was killed in the persecution of 257–258 under the emperors Valerian and Gallienus, four days after his bishop. The persecution and his death date are historical; the details of his interrogation and execution come from later tradition. The early accounts do not name the official who condemned him, and later legends (such as the Golden Legend) wrongly set the story under the emperor Decius.",
+  "persecution": [
+    {
+      "year": 258,
+      "date": "6 August 258",
+      "title": "Execution of his bishop, Sixtus II, and fellow deacons",
+      "summary": "Under Valerian's second rescript, which ordered bishops, presbyters, and deacons to be executed at once, Sixtus II was seized while meeting in a cemetery and put to death, as Cyprian of Carthage reported within weeks. Several of the Roman deacons died with him or soon after. Ambrose's later account has Lawrence following Sixtus to his execution and being told he would follow in three days.",
+      "responsible": [
+        {
+          "name": "Valerian",
+          "role": "Emperor who issued the edicts of 257 and the rescript of 258 against Christian clergy",
+          "jurisdiction": "Roman Empire",
+          "type": "state"
+        },
+        {
+          "name": "Gallienus",
+          "role": "Co-emperor with his father Valerian, in whose joint name the measures were issued",
+          "jurisdiction": "Roman Empire",
+          "type": "state"
+        },
+        {
+          "name": "Roman Senate and the city authorities",
+          "role": "Received the rescript and carried it out in Rome, according to Cyprian",
+          "jurisdiction": "City of Rome",
+          "type": "state"
+        }
+      ],
+      "outcome": "Sixtus and several deacons executed; the Roman church was left without a bishop until 259.",
+      "sources": [
+        "cyprian",
+        "ambrose",
+        "liber-pontificalis"
+      ]
+    },
+    {
+      "year": 258,
+      "date": "6–10 August 258",
+      "title": "Arrest, interrogation over the church's wealth, and execution",
+      "summary": "By tradition, the authorities, believing the church held great wealth, ordered Lawrence as its steward to hand it over; he asked for time, gave the money to the poor, and brought them before the official as the church's treasures, and was then condemned and roasted on a gridiron. Ambrose and Prudentius tell the story more than a century later; neither names the official, whom Prudentius calls the prefect of the city. Many historians think he was beheaded, the penalty Valerian's rescript prescribed. The date of his death, 10 August 258, is historical.",
+      "responsible": [
+        {
+          "name": "Valerian",
+          "role": "Emperor whose rescript required the execution of deacons",
+          "jurisdiction": "Roman Empire",
+          "type": "state"
+        },
+        {
+          "name": "Gallienus",
+          "role": "Co-emperor",
+          "jurisdiction": "Roman Empire",
+          "type": "state"
+        },
+        {
+          "name": "Prefect of the city of Rome (not named in the early sources)",
+          "role": "Official who interrogated and condemned him, according to Prudentius",
+          "jurisdiction": "City of Rome",
+          "type": "state"
+        }
+      ],
+      "outcome": "Executed on 10 August 258 and buried on the Via Tiburtina, where his tomb became a major pilgrimage site.",
+      "sources": [
+        "ambrose",
+        "prudentius",
+        "chronography-354",
+        "britannica"
+      ]
+    }
+  ],
+  "excommunication_note": "Never excommunicated or condemned by any church body. He has been venerated as a saint and martyr in the Catholic, Orthodox, and Anglican traditions since antiquity.",
+  "excommunications": [],
+  "sources": [
+    {
+      "id": "cyprian",
+      "type": "primary",
+      "citation": "Cyprian of Carthage, Letter 80, in The Letters of St. Cyprian of Carthage, vol. 4, trans. G. W. Clarke. Ancient Christian Writers 47. New York: Newman Press, 1989."
+    },
+    {
+      "id": "chronography-354",
+      "type": "primary",
+      "citation": "Depositio martyrum, in the Chronography of 354, ed. Theodor Mommsen, Chronica Minora 1 (Monumenta Germaniae Historica, Auctores Antiquissimi 9). Berlin, 1892."
+    },
+    {
+      "id": "ambrose",
+      "type": "primary",
+      "citation": "Ambrose of Milan, De officiis, ed. and trans. Ivor J. Davidson. 2 vols. Oxford: Oxford University Press, 2001."
+    },
+    {
+      "id": "prudentius",
+      "type": "primary",
+      "citation": "Prudentius, Peristephanon 2 (Hymn to the Passion of the Most Blessed Martyr Lawrence), in Prudentius, trans. H. J. Thomson. Loeb Classical Library. 2 vols. Cambridge, MA: Harvard University Press, 1949–1953."
+    },
+    {
+      "id": "liber-pontificalis",
+      "type": "primary",
+      "citation": "The Book of Pontiffs (Liber Pontificalis), trans. Raymond Davis. Liverpool: Liverpool University Press, 1989; rev. ed. 2000."
+    },
+    {
+      "id": "augustine-sermons",
+      "type": "primary",
+      "citation": "Augustine, Sermons 302–305 (on the feast of St Lawrence), in Sermons III/8 (273–305A), trans. Edmund Hill. The Works of Saint Augustine. Hyde Park, NY: New City Press, 1994."
+    },
+    {
+      "id": "leo-sermons",
+      "type": "primary",
+      "citation": "Leo the Great, Sermon 85 (on the feast of St Lawrence), in St. Leo the Great: Sermons, trans. Jane Patricia Freeland and Agnes Josephine Conway. Fathers of the Church 93. Washington, DC: Catholic University of America Press, 1996."
+    },
+    {
+      "id": "voragine",
+      "type": "primary",
+      "citation": "Jacobus de Voragine, The Golden Legend: Readings on the Saints, trans. William Granger Ryan. Princeton: Princeton University Press, 1993."
+    },
+    {
+      "id": "lapidge",
+      "type": "scholarly",
+      "citation": "Michael Lapidge, The Roman Martyrs: Introduction, Translations, and Commentary. Oxford: Oxford University Press, 2018."
+    },
+    {
+      "id": "kamen",
+      "type": "scholarly",
+      "citation": "Henry Kamen, The Escorial: Art and Power in the Renaissance. New Haven: Yale University Press, 2010."
+    },
+    {
+      "id": "britannica",
+      "type": "reference",
+      "citation": "\"Saint Lawrence.\" Encyclopaedia Britannica."
+    }
+  ]
+}
