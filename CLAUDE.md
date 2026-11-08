@@ -114,6 +114,7 @@ Keep this list in sync with `people/` (the tests check it). Grouped by era, olde
 - Origen (`origen`)
 - Eusebius of Caesarea (`eusebius-of-caesarea`): the user wrote "Eusabius"
 - Saint George (`saint-george`): almost entirely legend; labelled as such
+- Saint Lawrence (`saint-lawrence`): Roman deacon martyred 258; the gridiron and treasures stories labelled as tradition
 - Nicholas of Myra (`nicholas-of-myra`): the user wrote "Nicolas"; Nicholas of Myra was assumed
 - Athanasius of Alexandria (`athanasius-of-alexandria`)
 - John Chrysostom (`john-chrysostom`)
@@ -368,6 +369,8 @@ one is found. Be explicit that a list is a selection when it can't be complete.
 Update this after every commit that changes the site. Newest first. PR numbers up to #114 refer to
 trogers34/trogers-toolkit; later ones to trogers34/church-history.
 
+- Saint Lawrence (deacon of Rome under Sixtus II, executed 10 August 258 under Valerian; the 'treasures of the
+  church' and gridiron stories from Ambrose and Prudentius labelled as tradition). 91 people, 56 events.
 - **Moved to its own repository** (the user created trogers34/church-history: "copy it there"). Full history
   carried over; the project now sits at the repository root, the Pages workflow is `.github/workflows/pages.yml`
   (deploys from `main`), and the memory-check hook checks root paths. New live site:
