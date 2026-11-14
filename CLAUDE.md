@@ -172,6 +172,7 @@ Keep this list in sync with `people/` (the tests check it). Grouped by era, olde
 - Martin Chemnitz (`martin-chemnitz`)
 - William Perkins (`william-perkins`)
 - James VI and I (`james-vi-and-i`): includes a victims list (witch trials, the 1612 heresy burnings, Catholics)
+- Oliver Cromwell (`oliver-cromwell`)
 
 **Modern**
 - Richard Baxter (`richard-baxter`)
@@ -369,7 +370,10 @@ one is found. Be explicit that a list is a selection when it can't be complete.
 Update this after every commit that changes the site. Newest first. PR numbers up to #114 refer to
 trogers34/trogers-toolkit; later ones to trogers34/church-history.
 
-- Saint Lawrence (deacon of Rome under Sixtus II, executed 10 August 258 under Valerian; the 'treasures of the
+- Oliver Cromwell (Ironsides and the New Model Army, regicide, Lord Protector; toleration for Protestant sects and
+  readmission of the Jews; Drogheda and Wexford, the Irish land settlement, Dunbar prisoners, bans on Catholic and
+  Prayer Book worship; posthumous execution 1661). Linked from Stuart England. 92 people, 56 events.
+- **PR #1**: Saint Lawrence (deacon of Rome under Sixtus II, executed 10 August 258 under Valerian; the 'treasures of the
   church' and gridiron stories from Ambrose and Prudentius labelled as tradition). 91 people, 56 events.
 - **Moved to its own repository** (the user created trogers34/church-history: "copy it there"). Full history
   carried over; the project now sits at the repository root, the Pages workflow is `.github/workflows/pages.yml`

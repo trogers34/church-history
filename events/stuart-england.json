@@ -49,7 +49,7 @@
     {"name": "Robert Catesby and Guy Fawkes", "role": "Leaders of the Gunpowder Plot"},
     {"name": "Charles I", "role": "King 1625–49; backed Laud's policies; executed 1649"},
     {"name": "William Laud", "role": "Archbishop of Canterbury 1633–45; executed 1645"},
-    {"name": "Oliver Cromwell", "role": "Parliamentary general and Lord Protector 1653–58"},
+    {"name": "Oliver Cromwell", "role": "Parliamentary general and Lord Protector 1653–58", "person": "oliver-cromwell"},
     {"name": "Menasseh ben Israel", "role": "Amsterdam rabbi who petitioned for the readmission of Jews"},
     {"name": "James Nayler", "role": "Quaker preacher punished for blasphemy in 1656"},
     {"name": "Charles II", "role": "King 1660–85; presided over the Restoration settlement"},
