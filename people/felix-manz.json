@@ -1,0 +1,61 @@
+{
+  "name": "Felix Manz",
+  "slug": "felix-manz",
+  "short_name": "Manz",
+  "also_known_as": "Felix Mantz",
+  "era": "Reformation",
+  "role": "Co-founder of the Swiss Brethren (Anabaptists); the first Anabaptist executed by a Protestant government",
+  "born": {"year": 1498, "circa": true, "date": "c. 1498", "place": "Zürich, Swiss Confederacy", "sources": ["gameo", "snyder"]},
+  "died": {"year": 1527, "date": "5 January 1527", "place": "River Limmat, Zürich", "cause": "Executed by drowning on the order of the Zürich city council for rebaptizing", "sources": ["harder", "martyrs-mirror"]},
+  "summary": "The son of a canon of Zürich's Grossmünster, Manz was a learned humanist and an early follower of Huldrych Zwingli. With Conrad Grebel and George Blaurock he broke with Zwingli over infant baptism and the authority of the city council in church matters, and in January 1525 the group performed the first believers' baptisms of the Reformation, founding the Swiss Brethren. Repeatedly jailed, he was drowned in the Limmat in 1527 under a law the Zürich council had made the year before, becoming the first Anabaptist put to death by a Protestant government.",
+  "key_dates": [
+    {"year": 1519, "circa": true, "label": "Joins the circle studying Greek and Hebrew Scripture with Zwingli", "sources": ["gameo", "snyder"]},
+    {"year": 1523, "label": "Second Zürich Disputation (October): Manz and Grebel's group is dismayed when Zwingli leaves the pace of reform of the Mass to the city council", "sources": ["harder", "snyder"]},
+    {"year": 1525, "label": "17 January public disputation on baptism; on 21 January the first believers' baptisms take place, by tradition in the house of Manz's mother", "sources": ["harder", "bender"]},
+    {"year": 1525, "label": "Arrested several times for preaching and baptizing; held with Grebel and Blaurock after the November disputation", "sources": ["harder", "gameo"]},
+    {"year": 1526, "label": "Sentenced to indefinite imprisonment (March); escapes from the Witch Tower on 21 March; the council decrees death by drowning for rebaptizers (7 March)", "sources": ["harder", "snyder"]},
+    {"year": 1526, "label": "Recaptured with Blaurock near Grüningen (3 December)", "sources": ["harder", "gameo"]}
+  ],
+  "accomplishments": [
+    {"text": "Co-founded the Swiss Brethren with Conrad Grebel and George Blaurock, the first Anabaptist congregation of the Reformation and the ancestor of today's Mennonites, Amish, and Hutterite-linked traditions.", "sources": ["snyder", "gameo"]},
+    {"text": "Argued from the New Testament that baptism should follow personal faith and repentance, and that the church should be a voluntary community separate from the state.", "sources": ["harder", "snyder"]},
+    {"text": "Wrote a 'Protestation' to the Zürich council (late 1524) defending believers' baptism, one of the earliest Anabaptist statements of the doctrine.", "sources": ["harder"]},
+    {"text": "Used his training in Hebrew to help translate and study the prophets with the Zürich reformers before the break with Zwingli.", "sources": ["gameo", "bender"]},
+    {"text": "Preached and baptized in the countryside around Zürich, especially in Grüningen, despite repeated arrests.", "sources": ["harder", "snyder"]},
+    {"text": "Is traditionally credited with the hymn 'Mit Lust so will ich singen', later printed in the Anabaptist hymnal Ausbund.", "sources": ["gameo"]}
+  ],
+  "sayings_intro": "Manz's last words are known from the Zürich chronicles and Anabaptist martyr accounts.",
+  "sayings": {
+    "original": [
+      {"phrase": "\"Into thy hands, O Lord, I commend my spirit.\"", "reference": "Last words as he was drowned, 5 January 1527", "note": "Reported by Heinrich Bullinger and in later martyr accounts; the words are Luke 23:46.", "sources": ["martyrs-mirror", "harder"]}
+    ],
+    "misattributed": [
+      {"phrase": "\"Let him who dips be dipped\" (a 'third baptism')", "reference": "Mocking phrase for drowning Anabaptists", "note": "Often repeated in connection with Manz's death, but it is a jibe of his opponents, not his words, and its exact source is uncertain.", "sources": ["snyder"]}
+    ]
+  },
+  "persecuted_others_note": "No record of Manz supporting or carrying out persecution of anyone. The Swiss Brethren rejected the use of force by Christians, and Manz asked to be left free to preach rather than for any action against others.",
+  "persecuted_others": [],
+  "persecution_note": "Manz was arrested repeatedly from 1525, imprisoned, and finally executed by the Protestant government of Zürich for rebaptizing, with Huldrych Zwingli's support. His mother and brother urged him at the river to stay faithful.",
+  "persecution": [
+    {"year": 1525, "date": "January–November 1525", "title": "Bans, arrests, and imprisonment", "summary": "After the January 1525 disputation the Zürich council ordered all infants baptized within eight days, banned the group's meetings, and expelled non-citizens such as Blaurock. Manz, a citizen, was arrested several times for preaching and baptizing, and after the November 1525 disputation was held with Grebel and Blaurock.", "responsible": [
+      {"name": "Zürich city council", "role": "Ordered infant baptism, banned the meetings, and jailed the leaders", "jurisdiction": "City-state of Zürich", "type": "state"},
+      {"name": "Huldrych Zwingli", "role": "Leading pastor of Zürich who argued against the Anabaptists in the disputations and urged the council to act", "jurisdiction": "Church of Zürich", "type": "church"}
+    ], "outcome": "Imprisonment and repeated bans.", "sources": ["harder", "snyder"]},
+    {"year": 1526, "date": "March 1526", "title": "Life sentence and escape", "summary": "The council sentenced Manz, Grebel, Blaurock, and others to indefinite imprisonment on bread and water in the Witch Tower. On 7 March it decreed that anyone who rebaptized would be drowned. Manz and others escaped on 21 March.", "responsible": [
+      {"name": "Zürich city council", "role": "Imposed the sentence and the death penalty for rebaptism", "jurisdiction": "City-state of Zürich", "type": "state"}
+    ], "outcome": "Escaped and resumed preaching.", "sources": ["harder", "snyder"]},
+    {"year": 1527, "date": "3 December 1526 – 5 January 1527", "title": "Recapture, trial, and execution", "summary": "Captured with Blaurock in the Grüningen district, Manz was tried by the Zürich council and condemned for rebaptizing and for teaching that Christians should not bear the sword or hold office. On 5 January 1527 he was taken by boat onto the Limmat, bound, and drowned. Blaurock, not a citizen, was flogged through the streets and banished the same day. Zwingli did not oppose the sentence and had supported the policy behind it.", "responsible": [
+      {"name": "Zürich city council", "role": "Tried and condemned him under the 1526 decree", "jurisdiction": "City-state of Zürich", "type": "state"},
+      {"name": "Huldrych Zwingli", "role": "Supported the council's measures against the Anabaptists", "jurisdiction": "Church of Zürich", "type": "church"}
+    ], "outcome": "Drowned in the Limmat; the first Anabaptist executed by a Protestant authority.", "sources": ["harder", "martyrs-mirror", "snyder"]}
+  ],
+  "excommunication_note": "Manz was not excommunicated by a church court; he was condemned by the civil council of Zürich. In 2004 the Reformed Church of the Canton of Zürich held a service of reconciliation with Mennonites and expressed regret for the persecution of the Anabaptists, and a plaque marking Manz's execution was placed on the Limmat in 2004.",
+  "excommunications": [],
+  "sources": [
+    {"id": "harder", "type": "primary", "citation": "Leland Harder, ed., The Sources of Swiss Anabaptism: The Grebel Letters and Related Documents. Scottdale, PA: Herald Press, 1985."},
+    {"id": "martyrs-mirror", "type": "primary", "citation": "Thieleman J. van Braght, The Bloody Theater, or Martyrs Mirror of the Defenseless Christians (1660); English trans. Scottdale, PA: Herald Press."},
+    {"id": "bender", "type": "scholarly", "citation": "Harold S. Bender, Conrad Grebel, c. 1498–1526: The Founder of the Swiss Brethren. Goshen, IN: Mennonite Historical Society, 1950."},
+    {"id": "snyder", "type": "scholarly", "citation": "C. Arnold Snyder, Anabaptist History and Theology: An Introduction. Kitchener, ON: Pandora Press, 1995."},
+    {"id": "gameo", "type": "reference", "citation": "\"Manz, Felix (ca. 1498–1527).\" Global Anabaptist Mennonite Encyclopedia Online (GAMEO)."}
+  ]
+}

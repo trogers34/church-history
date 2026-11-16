@@ -151,6 +151,7 @@ Keep this list in sync with `people/` (the tests check it). Grouped by era, olde
 - Thomas More (`thomas-more`): includes the list of people executed for heresy linked to him, with verification ratings
 - Martin Luther (`martin-luther`): starter example
 - Huldrych Zwingli (`huldrych-zwingli`): includes the Anabaptist executed in Zürich (Felix Manz), with ratings
+- Felix Manz (`felix-manz`): the user wrote "Felix munz"
 - Henry VIII (`henry-viii`)
 - Ignatius of Loyola (`ignatius-of-loyola`)
 - Peter Martyr Vermigli (`peter-martyr-vermigli`): the user wrote "Vermigle"
@@ -370,7 +371,10 @@ one is found. Be explicit that a list is a selection when it can't be complete.
 Update this after every commit that changes the site. Newest first. PR numbers up to #114 refer to
 trogers34/trogers-toolkit; later ones to trogers34/church-history.
 
-- Oliver Cromwell (Ironsides and the New Model Army, regicide, Lord Protector; toleration for Protestant sects and
+- Felix Manz (the user wrote "Felix munz"; Swiss Brethren co-founder, first believers' baptisms 21 January 1525, repeated
+  arrests, 1526 escape, drowned in the Limmat 5 January 1527 by the Zürich council with Zwingli's support). 93 people,
+  56 events.
+- **PR #2**: Oliver Cromwell (Ironsides and the New Model Army, regicide, Lord Protector; toleration for Protestant sects and
   readmission of the Jews; Drogheda and Wexford, the Irish land settlement, Dunbar prisoners, bans on Catholic and
   Prayer Book worship; posthumous execution 1661). Linked from Stuart England. 92 people, 56 events.
 - **PR #1**: Saint Lawrence (deacon of Rome under Sixtus II, executed 10 August 258 under Valerian; the 'treasures of the
