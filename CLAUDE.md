@@ -152,6 +152,7 @@ Keep this list in sync with `people/` (the tests check it). Grouped by era, olde
 - Martin Luther (`martin-luther`): starter example
 - Huldrych Zwingli (`huldrych-zwingli`): includes the Anabaptist executed in Zürich (Felix Manz), with ratings
 - Felix Manz (`felix-manz`): the user wrote "Felix munz"
+- Johannes Oecolampadius (`johannes-oecolampadius`)
 - Henry VIII (`henry-viii`)
 - Ignatius of Loyola (`ignatius-of-loyola`)
 - Peter Martyr Vermigli (`peter-martyr-vermigli`): the user wrote "Vermigle"
@@ -371,7 +372,10 @@ one is found. Be explicit that a list is a selection when it can't be complete.
 Update this after every commit that changes the site. Newest first. PR numbers up to #114 refer to
 trogers34/trogers-toolkit; later ones to trogers34/church-history.
 
-- Felix Manz (the user wrote "Felix munz"; Swiss Brethren co-founder, first believers' baptisms 21 January 1525, repeated
+- Johannes Oecolampadius (Erasmus's Greek New Testament, Reformer of Basel, figurative reading of 'This is my body',
+  Baden 1526 and Marburg 1529, church-run discipline; approved abolition of the Mass and measures against Anabaptists).
+  94 people, 56 events.
+- **PR #3**: Felix Manz (the user wrote "Felix munz"; Swiss Brethren co-founder, first believers' baptisms 21 January 1525, repeated
   arrests, 1526 escape, drowned in the Limmat 5 January 1527 by the Zürich council with Zwingli's support). 93 people,
   56 events.
 - **PR #2**: Oliver Cromwell (Ironsides and the New Model Army, regicide, Lord Protector; toleration for Protestant sects and
