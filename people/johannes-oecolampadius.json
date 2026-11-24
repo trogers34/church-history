@@ -1,0 +1,58 @@
+{
+  "name": "Johannes Oecolampadius",
+  "slug": "johannes-oecolampadius",
+  "short_name": "Oecolampadius",
+  "also_known_as": "Johannes Hussgen (or Heussgen); Johann Oekolampad",
+  "era": "Reformation",
+  "role": "Humanist scholar and Reformer of Basel; Zwingli's closest ally",
+  "born": {"year": 1482, "date": "1482", "place": "Weinsberg, Württemberg (Germany)", "sources": ["poythress", "britannica"]},
+  "died": {"year": 1531, "date": "24 November 1531 (some sources give 23 November)", "place": "Basel, Swiss Confederacy", "cause": "Illness, weeks after Zwingli's death at Kappel; contemporaries linked it to his grief, and no clear medical cause is recorded", "sources": ["staehelin", "britannica"]},
+  "summary": "A gifted scholar of Greek and Hebrew who helped Erasmus with his Greek New Testament and translated the Church Fathers, Oecolampadius became the leading Reformer of Basel. He argued that Christ's words 'This is my body' should be read figuratively, defended that view with Zwingli against Luther at Marburg in 1529, and led Basel to abolish the Mass the same year. He pressed for church discipline run by the church rather than the city council, an idea that influenced Calvin. He supported the council's measures against Catholic worship and against the Anabaptists.",
+  "key_dates": [
+    {"year": 1515, "label": "Works in Basel with Erasmus on the Greek New Testament (published 1516), providing Hebrew notes", "sources": ["poythress", "rupp"]},
+    {"year": 1518, "label": "Cathedral preacher in Augsburg", "sources": ["poythress", "britannica"]},
+    {"year": 1520, "label": "Enters the Brigittine monastery at Altomünster; leaves in 1522 after embracing Luther's teaching", "sources": ["poythress", "rupp"]},
+    {"year": 1522, "label": "Settles in Basel (November); professor of theology and preacher at St Martin's from 1523", "sources": ["poythress", "staehelin"]},
+    {"year": 1525, "label": "Publishes his treatise on the true meaning of 'This is my body', supporting a figurative reading of the Lord's Supper", "sources": ["rupp", "britannica"]},
+    {"year": 1526, "label": "Represents the Reformed side against Johann Eck at the Disputation of Baden (May–June)", "sources": ["schaff", "poythress"]},
+    {"year": 1528, "label": "Marries Wibrandis Rosenblatt; takes part in the Bern Disputation, which wins Bern for the Reformation", "sources": ["poythress", "schaff"]},
+    {"year": 1529, "label": "Basel abolishes the Mass after iconoclasm in February; Reformation Ordinance of 1 April; joins Zwingli at the Marburg Colloquy with Luther (October)", "sources": ["staehelin", "poythress"]},
+    {"year": 1531, "label": "Zwingli killed at Kappel (11 October); Oecolampadius dies weeks later", "sources": ["staehelin", "britannica"]}
+  ],
+  "accomplishments": [
+    {"text": "Led the Reformation in Basel, which formally abolished the Mass and adopted a Reformed church order in 1529.", "sources": ["staehelin", "poythress"]},
+    {"text": "Argued from the Church Fathers that Christ's presence in the Lord's Supper is spiritual and the words 'This is my body' figurative, becoming with Zwingli a chief opponent of Luther in the Supper controversy.", "sources": ["rupp", "britannica"]},
+    {"text": "Defended the Reformed view with Zwingli against Luther and Melanchthon at the Marburg Colloquy (1529), where the sides agreed on fourteen of fifteen articles but not on the Supper.", "sources": ["poythress", "schaff"]},
+    {"text": "Argued that church discipline and excommunication should be in the hands of church elders rather than the city council, an idea later developed by Calvin in Geneva.", "sources": ["poythress", "rupp"]},
+    {"text": "Assisted Erasmus with the Hebrew in his Greek New Testament (1516) and translated many works of the Greek Fathers, especially Chrysostom, into Latin.", "sources": ["poythress", "britannica"]},
+    {"text": "Wrote biblical commentaries on Isaiah, Romans, and other books, and was an influential Hebrew scholar.", "sources": ["poythress", "britannica"]},
+    {"text": "Married the widow Wibrandis Rosenblatt, who after his death married Wolfgang Capito and then Martin Bucer.", "sources": ["poythress"]}
+  ],
+  "persecuted_others_note": "Oecolampadius debated the Anabaptists rather than urging their execution, but he supported the Basel council's laws suppressing Catholic worship and punishing Anabaptists with imprisonment and banishment, and argued that the government should enforce true religion.",
+  "persecuted_others": [
+    {"year": 1529, "date": "1529–1531", "title": "Abolition of the Mass in Basel", "targets": "Catholic clergy and worshippers in Basel", "involvement": "approved", "summary": "After iconoclastic riots in February 1529, the Basel council, with Oecolampadius as chief preacher, abolished the Mass and removed images, and its Reformation Ordinance required attendance at Reformed services. Catholic canons and scholars, including Erasmus, left the city.", "outcome": "Catholic worship was banned in Basel.", "sources": ["staehelin", "poythress"]},
+    {"year": 1529, "circa": true, "date": "1525–1531", "title": "Measures against the Anabaptists", "targets": "Anabaptists in Basel and its territory", "involvement": "approved", "summary": "Oecolampadius held disputations with the Anabaptists and supported the council's laws against them, which punished rebaptism with imprisonment and banishment. The council, not Oecolampadius, made and enforced the laws.", "outcome": "Anabaptists were jailed and expelled from Basel territory.", "sources": ["poythress", "britannica"]}
+  ],
+  "persecution_note": "Oecolampadius was condemned by the Catholic majority at the Disputation of Baden and his removal was demanded, but the Basel council protected him. He was never arrested.",
+  "persecution": [
+    {"year": 1526, "date": "May–June 1526", "title": "Condemned at the Disputation of Baden", "summary": "At a disputation organized by the Catholic cantons and the Bishop of Constance, with Johann Eck as chief Catholic speaker, the majority declared for the Catholic side, forbade religious innovations, excommunicated Zwingli, and called on Basel to remove Oecolampadius from his preaching office.", "responsible": [
+      {"name": "The Catholic cantons of the Swiss Confederacy", "role": "Organized the disputation and enforced its outcome", "jurisdiction": "Swiss Confederacy (Federal Diet)", "type": "state"},
+      {"name": "Johann Eck", "role": "Chief Catholic disputant", "jurisdiction": "University of Ingolstadt", "type": "individual"},
+      {"name": "Hugo von Hohenlandenberg, Bishop of Constance", "role": "Bishop whose representatives took part", "jurisdiction": "Diocese of Constance", "type": "church"}
+    ], "defended_by": [
+      {"name": "Basel city council", "role": "Refused to remove him and kept him in office"}
+    ], "outcome": "He kept his post; the Bern Disputation of 1528 reversed the Baden decisions for Bern and its allies.", "sources": ["schaff", "poythress"]}
+  ],
+  "excommunication_note": "Oecolampadius left the Catholic Church and was treated as a heretic by Rome; the Disputation of Baden (1526) condemned his teaching and demanded his removal. No individual papal bull against him is recorded. His works were banned on the Catholic Index of Prohibited Books.",
+  "excommunications": [
+    {"date": "1526", "by": "Disputation of Baden (Catholic cantons and the Bishop of Constance's representatives)", "authority": "Swiss Federal Diet", "reason": "His teaching on the Mass and the Lord's Supper declared heretical; Basel told to depose him", "status": "Never enforced; reversed for Protestant cantons by the Bern Disputation (1528)", "sources": ["schaff"]},
+    {"date": "1559", "by": "Pope Paul IV", "authority": "Index of Prohibited Books", "reason": "Listed among authors whose works were forbidden", "status": "The Index was abolished in 1966", "sources": ["britannica"]}
+  ],
+  "sources": [
+    {"id": "staehelin", "type": "primary", "citation": "Ernst Staehelin, ed., Briefe und Akten zum Leben Oekolampads, 2 vols. Leipzig: Heinsius, 1927–1934."},
+    {"id": "poythress", "type": "scholarly", "citation": "Diane Poythress, Reformer of Basel: The Life, Thought, and Influence of Johannes Oecolampadius. Grand Rapids: Reformation Heritage Books, 2011."},
+    {"id": "rupp", "type": "scholarly", "citation": "E. Gordon Rupp, Patterns of Reformation. London: Epworth Press, 1969 (part on Oecolampadius)."},
+    {"id": "schaff", "type": "reference", "citation": "Philip Schaff, History of the Christian Church, vol. 8: Modern Christianity. The Swiss Reformation (1892).", "url": "https://ccel.org/ccel/schaff/hcc8/hcc8.iv.iv.i.html"},
+    {"id": "britannica", "type": "reference", "citation": "\"Johann Oecolampadius.\" Encyclopaedia Britannica.", "url": "https://www.britannica.com/biography/Johann-Oecolampadius"}
+  ]
+}
